@@ -1,0 +1,135 @@
+Movie name;Year;Length;Release month;Genre 1;Genre 2;Critics choice awards win;Nominations;Producers guild of america award;IMDB rating;Rotten Tomatoes score;Language;Budget(million);Country;Age rating;win
+Chocolat;2000;121;December;Drama;Romance;FALSE;5;FALSE;7,2;62;French;25;United states;PG-13;FALSE
+Crouching Tiger, hidden dragon;2000;120;December;Action;Adventure;FALSE;10;FALSE;7,8;97;Chineese;15;China;PG-13;FALSE
+Erin Brockovich;2000;131;March;Comedy;Drama;FALSE;5;FALSE;7,3;84;English;51;United states;R;FALSE
+Gladiator;2000;171;May;Drama;Action;TRUE;12;TRUE;8,5;76;English;103;United states;R;TRUE
+Traffic;2000;147;December;Drama;Crime;FALSE;5;FALSE;7,6;92;English;48;United states;R;FALSE
+A Beautiful Mind;2001;140;December;Drama;Historical drama;TRUE;8;FALSE;8,2;74;English;58;United states;PG-13;TRUE
+Gosford Park;2001;137;December;Drama;Mystery;FALSE;7;FALSE;7,2;86;English;19,8;United kingdom;R;FALSE
+In the Bedroom;2001;131;January;Mystery;Indie film;FALSE;5;FALSE;7,4;93;English;43,4;United states;R;FALSE
+The Lord of the Rings: The Fellowship of the Ring;2001;228;December;Fantasy;Action;FALSE;13;FALSE;8,8;91;English;93;New Zealand;PG-13;FALSE
+Moulin Rouge;2001;130;June;Drama;Romance;FALSE;8;TRUE;7,6;76;English;52;Australia;PG-13;FALSE
+Chicago;2002;113;December;Musical;Crime;TRUE;13;TRUE;7,1;85;English;45;United States;PG-13;TRUE
+Gangs of New Yourk;2002;168;December;Drama;Crime;FALSE;10;FALSE;7,5;73;English;97;United States;R;FALSE
+The Hours;2002;114;January;Drama;Romance;FALSE;9;FALSE;7,5;80;English;25;United States;PG-13;FALSE
+The Lord of the Rings: The Two Towers;2002;235;December;Fantasy;Drama;FALSE;6;FALSE;8,7;95;English;94;United States;PG-13;FALSE
+The Pianist;2002;150;January;Drama;Historical drama;FALSE;7;FALSE;8,5;95;English;35;United States;R;FALSE
+The Lord of the Rings: The Ruturn of the King;2003;200;December;Fantasy;Drama;TRUE;11;TRUE;8,9;93;English;94;United States;PG-13;TRUE
+Lost in Translation;2003;105;August;Drama;Indie film;FALSE;4;FALSE;7,7;95;English;4;United States;R;FALSE
+Master and Commander: The Far Side of the World;2003;138;November;Adaptation;Drama;FALSE;10;FALSE;7,4;85;English;150;United States;PG-13;FALSE
+Mystic River;2003;138;May;Drama;Mystery;FALSE;6;FALSE;7,9;88;English;30;United States;R;FALSE
+Seabiscuit;2003;141;July;Drama;Sport;FALSE;7;FALSE;7,3;77;English;87;United States;PG-13;FALSE
+The Aviator;2004;170;December;Drama;Drama;FALSE;11;TRUE;7,5;86;English;110;United States;PG-13;FALSE
+Finding Neverland;2004;106;October;Drama;History;FALSE;7;FALSE;7,7;82;English;25;United States;PG;FALSE
+Million Dollar Baby;2004;133;December;Drama;Sport;FALSE;7;FALSE;8,1;91;English;30;United States;PG-13;TRUE
+Ray;2004;178;October;Drama;Musical;FALSE;6;FALSE;7,7;80;English;40;United States;PG-13;FALSE
+Sideways;2004;127;January;Comedy;Romance;TRUE;5;FALSE;7,5;97;English;16;United States;R;FALSE
+Brokeback Mountain;2005;134;December;Drama;Romance;TRUE;8;TRUE;7,7;87;English;14;United States;R;FALSE
+Capote;2005;114;October;Drama;Crime;FALSE;5;FALSE;7,3;90;English;7;United States;R;FALSE
+Crash;2005;115;September;Drama;Crime;FALSE;6;FALSE;7,8;74;English;6,5;United States;R;TRUE
+Good Night, and Good Luck.;2005;93;September;Drama;Docudrama;FALSE;6;FALSE;7,4;93;English;7,5;United States;PG;FALSE
+Munich;2005;164;December;Drama;Thriller;FALSE;5;FALSE;7,5;78;English;75;United States;R;FALSE
+Babel;2006;143;May;Drama;Thriller;FALSE;7;FALSE;7,4;69;Spanish;25;Mexico;R;FALSE
+The Departed;2006;151;September;Drama;Mystery;TRUE;5;FALSE;8,5;91;English;90;United States;R;TRUE
+Letters from Iwo Jima;2006;141;February;Drama;Historical drama;FALSE;4;FALSE;7,9;91;Japanese;19;United states;R;FALSE
+Little Miss Sunshine;2006;101;July;Comedy;Drama;FALSE;4;TRUE;7,8;91;English;8;United States;R;FALSE
+The Queen;2006;103;October;Drama;Historical drama;FALSE;6;FALSE;7,3;96;English;9,8;United States;PG-13;FALSE
+Atonement;2007;130;August;Drama;Romance;FALSE;7;FALSE;7,8;83;English;30;United States;R;FALSE
+Juno;2007;96;December;Drama;Romance;FALSE;4;FALSE;7,4;81;English;6,5;United States;PG-13;FALSE
+Michael Clayton;2007;120;October;Drama;Thriller;FALSE;7;FALSE;7,2;90;English;25;United States;R;FALSE
+No Country for Old Men;2007;123;november;Drama;Mystery;TRUE;8;TRUE;8,1;93;English;25;United States;R;TRUE
+There Will Be Blood;2007;158;January;Drama;History;FALSE;8;FALSE;8,1;91;English;25;United States;R;FALSE
+The Curious Case of Benjamin Button;2008;166;December;Science Fiction;Fantasy;FALSE;13;FALSE;7,8;71;English;150;United States;PG-13;FALSE
+Frost/Nixon;2008;122;october;Drama;Historical drama;FALSE;5;FALSE;7,7;93;English;25;United States;R;FALSE
+Milk;2008;128;October;Drama;Romance;FALSE;8;FALSE;7,5;93;English;20;United States;R;FALSE
+The Reader;2008;124;December;Drama;Romance;FALSE;5;FALSE;7,6;63;English;32;United States;R;FALSE
+Slumdog Millionaire ;2008;120;November;Drama;Crime;TRUE;10;TRUE;8;91;English;15;United States;R;TRUE
+Avatar;2009;162;December;Science Fiction;Action;FALSE;9;FALSE;7,8;82;English;237;United States;PG-13;FALSE
+The Blind Side;2009;129;November;Drama;Sports;FALSE;2;FALSE;7,6;66;English;29;United States;PG-13;FALSE
+District 9;2009;112;August;Fantasy;Thriller;FALSE;4;FALSE;7,9;90;English;30;United States;R;FALSE
+An Education;2009;100;October;Romance;Drama;FALSE;3;FALSE;7,3;94;English;7,5;United States;PG-13;FALSE
+The Hurt Locker;2009;131;July;Drama;Mystery;TRUE;9;TRUE;7,6;97;English;11;United States;R;TRUE
+Inglourious Basterds;2009;153;August;Drama;Action;FALSE;8;FALSE;8,3;89;English;70;United States;R;FALSE
+Precious;2009;110;November;Drama;Indie film;FALSE;6;FALSE;7,3;91;English;10;United States;R;FALSE
+A Serious Man;2009;106;October;Drama;Comedy;FALSE;2;FALSE;7;89;English;7;United States;R;FALSE
+Up;2009;96;May;Drama;Fantasy;FALSE;5;FALSE;8,2;88;English;175;United States;PG;FALSE
+Up in the Air;2009;109;September;Drama;Comedy;FALSE;6;FALSE;7,4;91;English;25;United States;R;FALSE
+Black Swan;2010;110;December;Drama;Mystery;FALSE;5;FALSE;8;85;English;13;United States;R;FALSE
+The Fighter;2010;116;December;Drama;Sport;FALSE;7;FALSE;7,8;91;English;25;United States;R;FALSE
+Inception;2010;148;July;Science Fiction;Thriller;FALSE;8;FALSE;8,8;87;English;160;United States;PG-13;FALSE
+The Kids Are All Right;2010;107;January;Drama;Comedy;FALSE;4;FALSE;7;93;English;4;United States;R;FALSE
+The King's Speech;2010;119;December;Drama;Historical drama;FALSE;12;TRUE;8;95;English;15;United States;R;TRUE
+127 Hours;2010;94;November;Drama;Thriller;FALSE;6;FALSE;7,6;93;English;18;United States;R;FALSE
+The Social Network;2010;121;October;Drama;History;TRUE;8;FALSE;7,7;96;English;50;United States;PG-13;FALSE
+Toy Story 3;2010;108;June;Fantasy;Adventure;FALSE;5;FALSE;8,3;98;English;200;United States;G;FALSE
+True Grit;2010;111;December;Adaptation;Drama;FALSE;10;FALSE;7,6;96;English;38;United States;PG-13;FALSE
+Winter's Bone;2010;100;June;Thriller;Indie film;FALSE;4;FALSE;7,2;94;English;2;United States;R;FALSE
+The Artist;2011;114;December;Drama;Black and white;TRUE;10;TRUE;7,9;95;English;15;United States;PG-13;TRUE
+The Descendants;2011;135;November;Drama;Comedy;FALSE;5;FALSE;7,3;89;English;20;United States;R;FALSE
+Extremely Loud and Incredibly Close;2011;130;January;Drama;Mystery;FALSE;2;FALSE;6,9;46;English;40;United States;PG-13;FALSE
+The Help;2011;147;August;Drama;Historical drama;FALSE;4;FALSE;8,1;76;English;25;United States;PG-13;FALSE
+Hugo;2011;129;November;Fantasy;Drama;FALSE;11;FALSE;7,5;93;English;156;United States;PG;FALSE
+Midnight in Paris;2011;100;June;fantasy;Romance;FALSE;4;FALSE;7,7;93;English;17;United States;PG-13;FALSE
+Moneyball;2011;133;September;Sport;Drama;FALSE;6;FALSE;7,6;87;English;47;United States;PG-13;FALSE
+The Tree of Life;2011;188;June;Drama;Fantasy;FALSE;3;FALSE;6,8;84;English;32;United States;PG-13;FALSE
+War Horse;2011;126;December;Drama;War;FALSE;6;FALSE;7,2;75;English;66;United States;PG-13;FALSE
+Amour;2012;127;January;Drama;Romance;FALSE;5;FALSE;7,9;93;French;9;France;PG-13;FALSE
+Argo;2012;130;October;Drama;Thriller;TRUE;7;TRUE;7,7;96;English;44,5;United States;R;TRUE
+Beasts of the Southern Wild;2012;93;July;fantasy;Drama;FALSE;4;FALSE;7,3;87;English;1,8;United States;PG-13;FALSE
+Django Unchained;2012;165;December;Drama;Blaxploitation;FALSE;5;FALSE;8,4;86;English;100;United States;R;FALSE
+Les Miserables;2012;156;December;Drama;Romance;FALSE;8;FALSE;7,6;69;English;61;United States;PG-13;FALSE
+Life of Pi;2012;127;November;Drama;Fantasy;FALSE;11;FALSE;7,9;87;English;120;United States;PG;FALSE
+Lincoln;2012;150;October;Drama;Historical drama;FALSE;12;FALSE;7,3;89;English;65;United States;PG-13;FALSE
+Silver Linings Playbook;2012;122;November;Drama;Comedy;FALSE;8;FALSE;7,7;92;English;21;United States;R;FALSE
+Zero Dark Thirty;2012;157;January;Thriller;Drama;FALSE;5;FALSE;7,4;92;English;40;United States;R;FALSE
+American Hustle;2013;138;December;Drama;Crime;FALSE;10;FALSE;7,2;93;English;40;United States;R;FALSE
+Captain Phillips;2013;134;October;Thriller;Drama;FALSE;6;FALSE;7,8;93;English;55;United States;PG-13;FALSE
+Dallas Buyers Club;2013;120;November;Drama;Historical drama;FALSE;6;FALSE;8;93;English;5;United States;R;FALSE
+Gravity;2013;91;October;Mystery;Drama;FALSE;10;TRUE;7,7;96;English;100;United States;PG-13;FALSE
+Her;2013;126;January;Science Fiction;Drama;FALSE;5;FALSE;8;94;English;23;United States;R;FALSE
+Nebraska;2013;115;November;Drama;Adventure;FALSE;6;FALSE;7,7;91;English;13,5;United States;R;FALSE
+Philomena;2013;98;November;Drama;Drama;FALSE;4;FALSE;7,6;90;English;12;United States;PG-13;FALSE
+12 Years a Slave;2013;134;October;Drama;Historical drama;TRUE;9;TRUE;8,1;95;English;12;United States;R;TRUE
+The Wolf of Wall Street;2013;180;December;Comed;Drama;FALSE;5;FALSE;8,2;79;English;100;United States;R;FALSE
+American Sniper;2014;134;January;Drama;Action;FALSE;6;FALSE;7,3;72;English;59;United States;R;FALSE
+Birdman or (The Unexpected Virtue of Ignorance) ;2014;119;August;Romance;Drama;FALSE;9;TRUE;7,7;91;English;18;United States;R;TRUE
+Boyhood;2014;166;July;Drama;epic;TRUE;6;FALSE;7,9;97;English;4;United States;R;FALSE
+The Grand Budapest Hotel;2014;100;March;Crime;Drama;FALSE;9;FALSE;8,1;91;English;25;United States;R;FALSE
+The Imitation Game;2014;114;January;Drama;Thriller;FALSE;8;FALSE;8;89;English;14;United States;PG-13;FALSE
+Selma;2014;128;January;Drama;Historical drama;FALSE;2;FALSE;7,5;99;English;20;United States;PG-13;FALSE
+The Theory of Everything;2014;124;November;Drama;Historical drama;FALSE;5;FALSE;7,7;79;English;15;United States;PG-13;FALSE
+Whiplash;2014;107;October;Drama;Drama;FALSE;5;FALSE;8,5;88;English;3,3;United States;R;FALSE
+The Big Short;2015;130;December;Drama;Comedy;FALSE;5;TRUE;7,8;88;English;50;United States;R;FALSE
+Bridge of Spies;2015;142;October;Drama;Thriller;FALSE;6;FALSE;7,6;91;English;40;United States;PG-13;FALSE
+Brooklyn;2015;117;January;Drama;Romance;FALSE;3;FALSE;7,5;97;English;11;United States;PG-13;FALSE
+Mad Max: Fury Road;2015;120;May;Fantasy;Science Fiction;FALSE;10;FALSE;8,1;97;English;150;United States;R;FALSE
+The Martian;2015;151;September;Science Fiction;Drama;FALSE;7;FALSE;8;91;English;108;United States;PG-13;FALSE
+The Revenant;2015;156;January;Thriller;Drama;FALSE;12;FALSE;8;79;English;135;United States;R;FALSE
+Room;2015;118;February;Drama;Thriller;FALSE;4;FALSE;8,2;93;English;13;United States;R;FALSE
+Spotlight;2015;129;January;Drama;Crime;TRUE;6;FALSE;8,1;97;English;20;United States;R;TRUE
+Arrival;2016;118;November;Drama;Mystery;FALSE;8;FALSE;7,9;94;English;47;United States;PG-13;FALSE
+Fences;2016;139;December;Drama;Drama;FALSE;4;FALSE;7,2;92;English;24;United States;PG-13;FALSE
+Hacksaw Ridge;2016;139;November;Drama;Historical drama;FALSE;6;FALSE;8,1;85;English;40;United States;R;FALSE
+Hell or High Water;2016;102;August;Drama;Crime;FALSE;4;FALSE;7,6;97;English;12;United States;R;FALSE
+Hidden Figures;2016;127;January;Drama;Historical drama;FALSE;3;FALSE;7,8;93;English;25;United States;PG;FALSE
+La La Land;2016;128;December;Romance;Drama;FALSE;14;TRUE;8;91;English;30;United States;PG-13;FALSE
+Lion;2016;129;November;Drama;Drama;FALSE;6;FALSE;8;85;English;15;United States;PG-13;FALSE
+Manchester by the Sea;2016;137;January;Drama;Drama;FALSE;6;FALSE;7,8;96;English;9;United States;R;FALSE
+Moonlight;2016;115;October;Drama;Drama;TRUE;8;FALSE;7,4;98;English;4;United States;R;TRUE
+Call Me by Your Name;2017;132;January;Drama;Romance;FALSE;3;FALSE;7,9;95;English;3,5;United States;R;FALSE
+Darkest Hour;2017;125;September;Drama;Historical drama;FALSE;6;FALSE;7,4;85;English;30;United States;PG-13;FALSE
+Dunkirk;2017;106;July;Drama;Historical drama;FALSE;8;FALSE;7,9;92;English;125;United States;PG-13;FALSE
+Get Out;2017;104;February;Mystery;Thriller;FALSE;4;FALSE;7,7;98;English;4,5;United States;R;FALSE
+Lady Bird;2017;95;September;Comedy;Drama;FALSE;5;FALSE;7,4;99;English;10;United States;R;FALSE
+Phantom Thread;2017;131;December;Drama;Historical drama;FALSE;6;FALSE;7,5;90;English;35;United States;R;FALSE
+The Post;2017;117;December;Drama;Historical drama;FALSE;2;FALSE;7,2;88;English;50;United States;PG-13;FALSE
+The Shape of Water;2017;123;August;Drama;thriller;TRUE;13;TRUE;7,3;92;English;20;United States;R;TRUE
+"Three ""Billboards Outside Ebbing, Missouri""";2017;116;November;Drama;Crime;FALSE;7;FALSE;8,2;90;English;15;United States;R;FALSE
+Green book;2018;130;September;Comedy;Drama;FALSE;5;TRUE;8,2;69;English;23;United States;PG-13;TRUE
+Black Panther;2018;135;January;Comedy;Biopics;FALSE;7;FALSE;7,3;96;English;200;United States;PG-13;FALSE
+BlackkKlansman;2018;136;August;Drama;Crime;FALSE;6;FALSE;7,5;96;English;15;United States;R;FALSE
+Bohemian Rhapsody;2018;134;January;Drama;Biography;FALSE;5;FALSE;8;69;English;52;United States;PG-13;FALSE
+The favorite;2018;121;December;Drama;Historical drama;FALSE;10;FALSE;7,6;93;English;15;United States;R;FALSE
+Roma;2018;135;August;Drama;Drama;TRUE;10;FALSE;7,8;96;Spanish;15;Mexico;R;FALSE
+A star is born;2018;134;October;Drama;Romance;FALSE;8;FALSE;7,7;90;English;36;United States;R;FALSE
+Vice;2018;133;December;Drama;Comedy;FALSE;8;FALSE;7,2;66;English;60;United States;R;FALSE
